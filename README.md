@@ -1,5 +1,6 @@
 # portafolio_ccna2026
 Crear el diagrama y cablear acorde a la topologia
+
 1.-DIAGRAMA DE LA TOPOLOGIA 
 
 
