@@ -33,9 +33,5 @@ Dispositivos en SW-Lab1-SARV:       Dispositivos en SW-Lab2-SARV:
   │                                   │
   └── VLAN 30: 1 PC Dirección         └── VLAN 30: 1 PC Dirección
       Fa0/7                               Fa0/7
-
-
-Conexión local de SW-Core-SARV:
-
   └── VLAN 99: 1 PC Gestión
       Puerto Fa0/9
