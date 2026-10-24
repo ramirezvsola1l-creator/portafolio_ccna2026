@@ -5,7 +5,7 @@ Crear el diagrama y cablear acorde a la topologia
 
 
  ```text
-                 [ R1-Core-SARV (SARV) ]
+                 [ R1-Core-SARV ]
                            |
                            | G0/0
                            | Trunk 802.1Q
@@ -36,3 +36,8 @@ Dispositivos en SW-Lab1-SARV:       Dispositivos en SW-Lab2-SARV:
       Fa0/7                               Fa0/7
   └── VLAN 99: 1 PC Gestión
       Puerto Fa0/9
+
+
+
+
+
