@@ -1,8 +1,10 @@
 # portafolio_ccna2026
 Crear el diagrama y cablear acorde a la topologia
-DIAGRAMA DE LA TOPOLOGIA 
+1.-DIAGRAMA DE LA TOPOLOGIA 
 
-R1-Core-SARV 
+
+ ```text
+                 [ R1-Core-SARV (SARV) ]
                            |
                            | G0/0
                            | Trunk 802.1Q
@@ -31,5 +33,9 @@ Dispositivos en SW-Lab1-SARV:       Dispositivos en SW-Lab2-SARV:
   │                                   │
   └── VLAN 30: 1 PC Dirección         └── VLAN 30: 1 PC Dirección
       Fa0/7                               Fa0/7
+
+
+Conexión local de SW-Core-SARV:
+
   └── VLAN 99: 1 PC Gestión
       Puerto Fa0/9
